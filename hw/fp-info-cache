@@ -1,4 +1,4 @@
-19818324927730203
+19836477604105396
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -84482,3 +84482,80 @@ varistor SIOV
 0
 2
 2
+kicad_footprint_library
+ACS70331
+
+
+0
+12
+12
+kicad_footprint_library
+CPC1907B
+Single-Pole, Normally Open, Power SOIC OptoMOS® Relay
+
+0
+8
+8
+kicad_footprint_library
+C_Axial_L17.5mm_W7.8mm_P7.5mm_Horizontal
+C, Axial series, Axial, Horizontal, pin pitch=25mm, , length*diameter=19*8.0mm^2, http://cdn-reichelt.de/documents/datenblatt/B300/STYROFLEX.pdf
+C Axial series Axial Horizontal pin pitch 25mm  length 19mm diameter 8.0mm
+0
+2
+2
+kicad_footprint_library
+DFN-14_3x4mm_Pitch0.5mm
+DE Package; 14-Lead Plastic DFN (4mm x 3mm) (see Linear Technology DFN_14_05-08-1708.pdf)
+DFN 0.5
+0
+14
+14
+kicad_footprint_library
+DFN-14_3x4mm_Pitch0.5mm_LT3032
+DE Package; 14-Lead Plastic DFN (4mm x 3mm) (see Linear Technology DFN_14_05-08-1708.pdf)
+DFN 0.5
+0
+18
+14
+kicad_footprint_library
+NHD-0420CW-AB3
+
+
+0
+24
+20
+kicad_footprint_library
+OSC-7x5mm
+
+
+0
+4
+4
+kicad_footprint_library
+PDM2-S
+
+
+0
+5
+5
+kicad_footprint_library
+SDS-50J
+SDS-50J, standard DIN connector, 5 pins, midi
+SDS-50J DIN 5-pins connector midi
+0
+7
+5
+kicad_footprint_library
+Wurth-750313457
+
+
+0
+8
+8
+kicad_footprint_library
+XLR-PD3FRA2
+
+
+0
+3
+3

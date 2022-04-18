@@ -2451,7 +2451,7 @@
     (uuid 00000000-0000-0000-0000-000061c1c148)
     (property "Reference" "C15" (id 0) (at 189.23 78.0034 90))
     (property "Value" "1u" (id 1) (at 189.23 80.3148 90))
-    (property "Footprint" "" (id 2) (at 189.23 83.82 0)
+    (property "Footprint" "kicad_footprint_library:C_Axial_L17.5mm_W7.8mm_P7.5mm_Horizontal" (id 2) (at 189.23 83.82 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 189.23 83.82 0)
@@ -2500,7 +2500,7 @@
     (property "Value" "1u" (id 1) (at 149.6568 58.293 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (id 2) (at 147.32 57.15 0)
+    (property "Footprint" "kicad_footprint_library:C_Axial_L17.5mm_W7.8mm_P7.5mm_Horizontal" (id 2) (at 147.32 57.15 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 147.32 57.15 0)
@@ -2584,7 +2584,7 @@
     (uuid 00000000-0000-0000-0000-000061c21611)
     (property "Reference" "C17" (id 0) (at 224.79 78.0034 90))
     (property "Value" "1u" (id 1) (at 224.79 80.3148 90))
-    (property "Footprint" "" (id 2) (at 224.79 83.82 0)
+    (property "Footprint" "kicad_footprint_library:C_Axial_L17.5mm_W7.8mm_P7.5mm_Horizontal" (id 2) (at 224.79 83.82 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 224.79 83.82 0)
@@ -3239,7 +3239,7 @@
     (property "Value" "1u" (id 1) (at 156.0068 210.693 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (id 2) (at 153.67 209.55 0)
+    (property "Footprint" "kicad_footprint_library:C_Axial_L17.5mm_W7.8mm_P7.5mm_Horizontal" (id 2) (at 153.67 209.55 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 153.67 209.55 0)
@@ -3288,7 +3288,7 @@
     (property "Value" "1u" (id 1) (at 112.8268 206.883 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (id 2) (at 110.49 205.74 0)
+    (property "Footprint" "kicad_footprint_library:C_Axial_L17.5mm_W7.8mm_P7.5mm_Horizontal" (id 2) (at 110.49 205.74 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 110.49 205.74 0)
@@ -3307,7 +3307,7 @@
     (property "Value" "1u" (id 1) (at 145.8468 210.693 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (id 2) (at 143.51 209.55 0)
+    (property "Footprint" "kicad_footprint_library:C_Axial_L17.5mm_W7.8mm_P7.5mm_Horizontal" (id 2) (at 143.51 209.55 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 143.51 209.55 0)
@@ -3379,7 +3379,7 @@
     (uuid 00000000-0000-0000-0000-000061c4d822)
     (property "Reference" "C8" (id 0) (at 130.81 198.6534 90))
     (property "Value" "1u" (id 1) (at 130.81 200.9648 90))
-    (property "Footprint" "" (id 2) (at 130.81 204.47 0)
+    (property "Footprint" "kicad_footprint_library:C_Axial_L17.5mm_W7.8mm_P7.5mm_Horizontal" (id 2) (at 130.81 204.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 130.81 204.47 0)
@@ -4034,7 +4034,7 @@
       (reference "C1") (unit 1) (value "100n") (footprint "Capacitor_THT:C_Rect_L13.0mm_W5.0mm_P10.00mm_FKS3_FKP3_MKS4")
     )
     (path "/00000000-0000-0000-0000-000061c48bfa"
-      (reference "C2") (unit 1) (value "1u") (footprint "")
+      (reference "C2") (unit 1) (value "1u") (footprint "kicad_footprint_library:C_Axial_L17.5mm_W7.8mm_P7.5mm_Horizontal")
     )
     (path "/00000000-0000-0000-0000-000061c22f5d"
       (reference "C3") (unit 1) (value "390n") (footprint "Capacitor_THT:C_Axial_L19.0mm_D9.5mm_P25.00mm_Horizontal")
@@ -4052,19 +4052,19 @@
       (reference "C7") (unit 1) (value "100n") (footprint "Capacitor_THT:C_Rect_L13.0mm_W5.0mm_P10.00mm_FKS3_FKP3_MKS4")
     )
     (path "/00000000-0000-0000-0000-000061c4d822"
-      (reference "C8") (unit 1) (value "1u") (footprint "")
+      (reference "C8") (unit 1) (value "1u") (footprint "kicad_footprint_library:C_Axial_L17.5mm_W7.8mm_P7.5mm_Horizontal")
     )
     (path "/00000000-0000-0000-0000-000061c1630a"
       (reference "C9") (unit 1) (value "68n") (footprint "Capacitor_THT:C_Axial_L5.1mm_D3.1mm_P15.00mm_Horizontal")
     )
     (path "/00000000-0000-0000-0000-000061c4c2d3"
-      (reference "C10") (unit 1) (value "1u") (footprint "")
+      (reference "C10") (unit 1) (value "1u") (footprint "kicad_footprint_library:C_Axial_L17.5mm_W7.8mm_P7.5mm_Horizontal")
     )
     (path "/00000000-0000-0000-0000-000061c1ce7f"
-      (reference "C11") (unit 1) (value "1u") (footprint "")
+      (reference "C11") (unit 1) (value "1u") (footprint "kicad_footprint_library:C_Axial_L17.5mm_W7.8mm_P7.5mm_Horizontal")
     )
     (path "/00000000-0000-0000-0000-000061c46c41"
-      (reference "C12") (unit 1) (value "1u") (footprint "")
+      (reference "C12") (unit 1) (value "1u") (footprint "kicad_footprint_library:C_Axial_L17.5mm_W7.8mm_P7.5mm_Horizontal")
     )
     (path "/00000000-0000-0000-0000-000061c1b7dc"
       (reference "C13") (unit 1) (value "82n") (footprint "Capacitor_THT:C_Rect_L10.3mm_W5.0mm_P7.50mm_MKS4")
@@ -4073,13 +4073,13 @@
       (reference "C14") (unit 1) (value "390p") (footprint "Capacitor_THT:C_Rect_L10.0mm_W4.0mm_P7.50mm_MKS4")
     )
     (path "/00000000-0000-0000-0000-000061c1c148"
-      (reference "C15") (unit 1) (value "1u") (footprint "")
+      (reference "C15") (unit 1) (value "1u") (footprint "kicad_footprint_library:C_Axial_L17.5mm_W7.8mm_P7.5mm_Horizontal")
     )
     (path "/00000000-0000-0000-0000-000061c4d184"
       (reference "C16") (unit 1) (value "47u") (footprint "Capacitor_THT:CP_Radial_D8.0mm_P5.00mm")
     )
     (path "/00000000-0000-0000-0000-000061c21611"
-      (reference "C17") (unit 1) (value "1u") (footprint "")
+      (reference "C17") (unit 1) (value "1u") (footprint "kicad_footprint_library:C_Axial_L17.5mm_W7.8mm_P7.5mm_Horizontal")
     )
     (path "/00000000-0000-0000-0000-000061c2197d"
       (reference "C18") (unit 1) (value "2.2n") (footprint "Capacitor_THT:C_Rect_L18.0mm_W7.0mm_P15.00mm_FKS3_FKP3")
