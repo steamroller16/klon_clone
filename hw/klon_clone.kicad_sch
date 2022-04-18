@@ -3161,7 +3161,7 @@
     (uuid 00000000-0000-0000-0000-000061c4201c)
     (property "Reference" "U2" (id 0) (at 168.91 192.6082 0))
     (property "Value" "ICL7660" (id 1) (at 168.91 194.9196 0))
-    (property "Footprint" "" (id 2) (at 166.37 209.55 0)
+    (property "Footprint" "Package_SO:SO-8_5.3x6.2mm_P1.27mm" (id 2) (at 166.37 209.55 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://datasheets.maximintegrated.com/en/ds/ICL7660-MAX1044.pdf" (id 3) (at 166.37 209.55 0)
@@ -4241,7 +4241,7 @@
       (reference "U1") (unit 3) (value "TL072") (footprint "Package_SO:SO-8_5.3x6.2mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-000061c4201c"
-      (reference "U2") (unit 1) (value "ICL7660") (footprint "")
+      (reference "U2") (unit 1) (value "ICL7660") (footprint "Package_SO:SO-8_5.3x6.2mm_P1.27mm")
     )
     (path "/00000000-0000-0000-0000-000061c29fb1"
       (reference "U3") (unit 1) (value "TL072") (footprint "Package_SO:SO-8_5.3x6.2mm_P1.27mm")
